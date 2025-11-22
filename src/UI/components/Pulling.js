@@ -13,7 +13,7 @@ function Pulling() {
       }
     }, 60000); 
 
-    return () => clearInterval(interval); // cleanup
+    return () => clearInterval(interval); 
   }, []);
 
   return null; 
