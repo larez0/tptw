@@ -8,7 +8,7 @@
   font-family: 'Marck Script', cursive;
 }
 .text-pink{
-  color:rgb(211, 59, 122)
+  color:rgb(120, 211, 59)
 }
 .hero-section{
   position: relative;
@@ -48,11 +48,11 @@
   transform: translateY(-50%);
 }
 .btn-pink{
-  background-color: rgb(211, 59, 122);
+  background-color: rgb(120, 211, 59);
   border: none;
 }
 .btn-pink:hover{
-  background-color: rgb(150, 30, 90); }
+  background-color: rgb(13, 87, 18); }
 .card{
   position: relative;
   display: flex;
@@ -74,12 +74,12 @@
 }
 .btn-pink1{
   position:absolute;
-  background-color: rgb(211, 59, 122);
+  background-color: rgb(120, 211, 59);
   border: none;
   
 }
 .bg-pink{
-  background-color: rgb(211, 59, 122);
+  background-color: rgb(120, 211, 59);
 }
 .card-bouquet{
   position: relative;
@@ -112,12 +112,12 @@
   width: 50%; 
   align-self: center;
   margin-bottom: 10px;
-  border-color: rgb(211, 59, 122);
+  border-color: rgb(120, 211, 59);
   border-radius: 60px;
-  color: rgb(211, 59, 122);
+  color: rgb(120, 211, 59);
   margin-right: 0px;
 }
 .card-bouquet button :hover {
- background-color: rgb(211, 59, 122);
+ background-color: rgb(120, 211, 59);
  color: white;
 }

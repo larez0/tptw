@@ -17,9 +17,9 @@ function Home() {
         </video>
         <div className="hero-overlay"></div>
         <div className="hero-content container">
-          <h1 className="display-2 font-marck text-pink mb-3">Fleuria</h1>
+          <h1 className="display-2 font-marck text-success mb-3">Arezki's flowers</h1>
           <p className="lead bg-opacity-75 text-white d-inline-block rounded-3 p-3">
-            Chez <span className="fw-bold text-pink">Fleuria</span>, chaque bouquet est une promesse de tendresse.<br />
+            Chez <span className="fw-bold text-success">Arezki's flowers</span>, chaque bouquet est une promesse de tendresse.<br />
             Livraison partout en Algérie — même le jour même.<br />
             Mariages, événements, surprises : chaque fleur raconte une histoire.
           </p><br />
@@ -70,7 +70,7 @@ function Home() {
 
      
       <footer className="bg-pink text-white text-center py-4">
-        <p className="mb-1">&copy; 2025 Fleuria — Tous droits réservés.</p>
+        <p className="mb-1">&copy; 2025 arezki' flowres — Tous droits réservés.</p>
         <p className="mb-0">
           {/* <a href="#" className="text-white text-decoration-underline">Conditions d’utilisation</a> |
           <a href="#" className="text-white text-decoration-underline">Confidentialité</a> */}

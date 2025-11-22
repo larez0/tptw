@@ -15,7 +15,9 @@ const Navbar =() => {
     return(
       <div className='navbar navbar-expand-lg bg-white '>
         <div className='container-fluid'>
-            <Link className='navbar-brand text-pink d-flex align-items-center font-marck fs-2' to='/home'>Fleuria</Link>
+            <Link className='navbar-brand text-success d-flex align-items-center font-marck fs-2' to='/home'>
+                arezki's flowers
+            </Link>
             <button className='navbar-toggler' type='button' data-bs-toggle='collapse' data-bs-target='#navbarNav'>
                 <span className='navbar-toggler-icon'></span>
             </button>
@@ -30,7 +32,7 @@ const Navbar =() => {
                             style={({ isActive }) => ({
                               textDecoration: 'none', 
                               fontWeight: isActive ? 'bold' : 'normal', 
-                              color: isActive ? '#c2185b' : '#e83e8c', 
+                              color: isActive ? '#18c24bff' : '#94c42fff', 
                                  })}
                          >
     {item.label}
